@@ -38,6 +38,7 @@ python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20"
 
 ## Prediction - Result 2: map
 - use the `./boken_map/draw_IQVIA.py` to generate the true and predicted map for 10/15/2022 -> 11/12/2022.
+- click to see the map https://ycq091044.github.io/TAP-RSV/
 
 ## Supp 1
 - run `parallel1-exp2.sh` and `parallel2-exp2.sh`. They can be run in parallel. The results are already saved into `./logs/results-exp2` and the tensorboard logs are saved into `./logs/RSV-analysis-exp2`.
