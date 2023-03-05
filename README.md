@@ -20,8 +20,10 @@ python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20"
 ## Analysis 2: RSV location cluster
 > please use `./notebook/Task 2 - IQVIA location cluster.ipynb`
 
+- get CDC data from https://www.cdc.gov/rsv/research/rsv-net/dashboard.html
 > please use `./notebook/Task 2 - CDC location cluster.ipynb`
 
+- get google data from https://trends.google.com/trends/?geo=US
 > please use `./notebook/Task 2 - Google location cluster.ipynb`
 
 - for humidity and temperature correlation, please  use `weather.py` to crawl the climate data. 
