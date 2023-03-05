@@ -36,7 +36,7 @@ class LitModel(pl.LightningModule):
         y_k = ((y_pi * y_pj) * dist.reshape(N,N,1)).sum(1).reshape(N,args.test_length,1)
 
         ising_loss = self.criterion((y_p.reshape(N,args.test_length,1)+y_k).squeeze(), Y.squeeze()).mean(1).mean()
-        loss = self.criterion(prediction, Y).mean(-1).mean() + ising_loss
+        loss = self.criterion(prediction, Y).mean(-1).mean()# + ising_loss
         
         self.log("train_loss", loss)
         return loss

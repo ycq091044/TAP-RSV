@@ -1,0 +1,11 @@
+{'test_mse_loss': 55.00103759765625, 'test_mae_loss': 3.9527273178100586, 'test_mape_loss': 0.8134400248527527, 'test_ccc_loss': 0.736793024436172, 'test_rsquare_loss': 0.49452712674594695, 'test_pcc_loss': 0.7367930755724871}
+{'test_mse_loss': 55.00103759765625, 'test_mae_loss': 3.9527273178100586, 'test_mape_loss': 0.8134400248527527, 'test_ccc_loss': 0.736793024436172, 'test_rsquare_loss': 0.49452712674594695, 'test_pcc_loss': 0.7367930755724871}
+{'test_mse_loss': 49.280059814453125, 'test_mae_loss': 4.019615650177002, 'test_mape_loss': 0.8196832537651062, 'test_ccc_loss': 0.7598004402046267, 'test_rsquare_loss': 0.5314161994988519, 'test_pcc_loss': 0.7598004659211619}
+{'test_mse_loss': 49.280059814453125, 'test_mae_loss': 4.019615650177002, 'test_mape_loss': 0.8196832537651062, 'test_ccc_loss': 0.7598004402046267, 'test_rsquare_loss': 0.5314161994988519, 'test_pcc_loss': 0.7598004659211619}
+{'test_mse_loss': 58.06383514404297, 'test_mae_loss': 4.111226558685303, 'test_mape_loss': 0.8330140709877014, 'test_ccc_loss': 0.7071312324018368, 'test_rsquare_loss': 0.4532291575967843, 'test_pcc_loss': 0.707131204053987}
+{'test_mse_loss': 58.06383514404297, 'test_mae_loss': 4.111226558685303, 'test_mape_loss': 0.8330140709877014, 'test_ccc_loss': 0.7071312324018368, 'test_rsquare_loss': 0.4532291575967843, 'test_pcc_loss': 0.707131204053987}
+{'test_mse_loss': 59.688270568847656, 'test_mae_loss': 4.161455154418945, 'test_mape_loss': 0.8604680299758911, 'test_ccc_loss': 0.7115037130763275, 'test_rsquare_loss': 0.43941056644318616, 'test_pcc_loss': 0.7115037189042359}
+{'test_mse_loss': 59.688270568847656, 'test_mae_loss': 4.161455154418945, 'test_mape_loss': 0.8604680299758911, 'test_ccc_loss': 0.7115037130763275, 'test_rsquare_loss': 0.43941056644318616, 'test_pcc_loss': 0.7115037189042359}
+{'test_mse_loss': 57.33232879638672, 'test_mae_loss': 4.136892795562744, 'test_mape_loss': 0.8586920499801636, 'test_ccc_loss': 0.7140940407173967, 'test_rsquare_loss': 0.45155716118791567, 'test_pcc_loss': 0.7140940734405501}
+{'test_mse_loss': 57.33232879638672, 'test_mae_loss': 4.136892795562744, 'test_mape_loss': 0.8586920499801636, 'test_ccc_loss': 0.7140940407173967, 'test_rsquare_loss': 0.45155716118791567, 'test_pcc_loss': 0.7140940734405501}
+

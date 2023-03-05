@@ -1,63 +1,47 @@
-python train_hoist.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_hoist.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_hoist.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_hoist.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_hoist.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_hoist.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_hoist.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_hoist.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_hoist.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_hoist.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_hoist.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_hoist.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_hoist.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_hoist.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_hoist.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_hoist.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_hoist.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_hoist.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_hoist.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_hoist.py --val_start "2022-10-15" --test_start "2022-11-12"
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_taprsv.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
 
-python train_stan.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_stan.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_stan.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_stan.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_stan.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_stan.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_stan.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_stan.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_stan.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_stan.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_stan.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_stan.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_stan.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_stan.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_stan.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_stan.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_stan.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_stan.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_stan.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_stan.py --val_start "2022-10-15" --test_start "2022-11-12"
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_lstm.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
 
-
-python train_xgboost.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_xgboost.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_xgboost.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_xgboost.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_xgboost.py --val_start "2022-07-23" --test_start "2022-08-20"
-python train_xgboost.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_xgboost.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_xgboost.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_xgboost.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_xgboost.py --val_start "2022-08-20" --test_start "2022-09-17"
-python train_xgboost.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_xgboost.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_xgboost.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_xgboost.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_xgboost.py --val_start "2022-09-17" --test_start "2022-10-15"
-python train_xgboost.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_xgboost.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_xgboost.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_xgboost.py --val_start "2022-10-15" --test_start "2022-11-12"
-python train_xgboost.py --val_start "2022-10-15" --test_start "2022-11-12"
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 8
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 12
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
+python train_transformer.py --val_start "2022-07-23" --test_start "2022-08-20" --test_length 16
